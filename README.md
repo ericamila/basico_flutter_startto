@@ -1,4 +1,4 @@
-# startto_dev
+# basico_flutter_startto_curso
 
 A new Flutter project.
 
